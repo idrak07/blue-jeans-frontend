@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="1024" viewBox="0 0 1280 1024" xml:space="preserve">
+<desc>Created with Fabric.js 3.6.3</desc>
+<defs>
+</defs>
+<g transform="matrix(1.9692780337941629 0 0 1.9692780337941629 640.0153846153846 512.012312418764)" id="background-logo"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;"  paint-order="stroke"  x="-325" y="-260" rx="0" ry="0" width="650" height="520" />
+</g>
+<g transform="matrix(1.9692780337941629 0 0 1.9692780337941629 640.0153846153846 512.0123124187642)" id="logo-logo"  >
+<g style=""  paint-order="stroke"   >
+		<g transform="matrix(1.246116777507345 0 0 1.246116777507345 0 -2.842171e-14)"  >
+<g style=""  paint-order="stroke"   >
+		<g transform="matrix(1 0 0 1 0 0)"  >
+<polygon style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(52,58,100); fill-rule: nonzero; opacity: 1;"  paint-order="stroke"  points="100,100 0,100 0,95.12 95.12,95.12 95.12,-95.12 -95.12,-95.12 -95.12,0 -100,0 -100,-100 100,-100 100,100 " />
+</g>
+</g>
+</g>
+</g>
+</g>
+<g transform="matrix(1.9692780337941629 0 0 1.9692780337941629 642.4082305075217 510.931533248257)" id="text-logo-path"  >
+<path style="stroke: rgb(255,255,255); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(52,58,100); fill-rule: nonzero; opacity: 1;"  paint-order="stroke"  transform=" translate(-106.06, 75.22)" d="M 61.91 0 L 23.72 0 L 23.72 -154.03 L 59.48 -154.03 Q 78 -154.03 87.6 -145.29 Q 97.21 -136.55 97.21 -120.81 L 97.21 -120.81 L 97.21 -106.7 Q 97.21 -86.56 80.31 -80.77 L 80.31 -80.77 Q 99.52 -75.57 99.52 -54.51 L 99.52 -54.51 L 99.52 -33.21 Q 99.52 -17.36 90.03 -8.68 Q 80.54 0 61.91 0 L 61.91 0 Z M 40.27 -74.64 L 40.27 -14.23 L 61.91 -14.23 Q 71.86 -14.23 77.42 -19.79 Q 82.97 -25.34 82.97 -33.21 L 82.97 -33.21 L 82.97 -54.51 Q 82.97 -62.14 77.24 -68.39 Q 71.52 -74.64 61.91 -74.64 L 61.91 -74.64 L 40.27 -74.64 Z M 40.27 -139.79 L 40.27 -86.56 L 59.48 -86.56 Q 69.43 -86.56 74.99 -92.69 Q 80.54 -98.83 80.54 -106.7 L 80.54 -106.7 L 80.54 -120.81 Q 80.54 -128.45 74.99 -134.12 Q 69.43 -139.79 59.48 -139.79 L 59.48 -139.79 L 40.27 -139.79 Z M 124.4 -27.31 L 124.4 -27.31 L 124.4 -42.7 L 140.95 -42.7 L 140.95 -26.27 Q 140.95 -10.65 156.11 -10.65 L 156.11 -10.65 Q 171.73 -10.65 171.85 -26.27 L 171.85 -26.27 L 171.85 -139.79 L 140.95 -139.79 L 140.95 -154.03 L 188.4 -154.03 L 188.4 -27.31 Q 188.4 -12.15 179.83 -4.28 Q 171.27 3.59 156.11 3.59 Q 140.95 3.59 132.68 -4.22 Q 124.4 -12.04 124.4 -27.31 Z" stroke-linecap="round" />
+</g>
+</svg>
